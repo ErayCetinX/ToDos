@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\bin\Debug\net6.0\DeveloperTrackingSystem.exe
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\bin\Debug\net6.0\DeveloperTrackingSystem.deps.json
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\bin\Debug\net6.0\DeveloperTrackingSystem.runtimeconfig.json
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\bin\Debug\net6.0\DeveloperTrackingSystem.dll
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\bin\Debug\net6.0\DeveloperTrackingSystem.pdb
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.dll
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\refint\DeveloperTrackingSystem.dll
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.pdb
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\DeveloperTrackingSystem.genruntimeconfig.cache
+C:\Users\HUAWEI\source\repos\DeveloperTrackingSystem\DataBaseFunc\obj\Debug\net6.0\ref\DeveloperTrackingSystem.dll
